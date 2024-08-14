@@ -5,7 +5,7 @@ import streamlit as st
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeRegressor
 st.image(r"th (1).jpeg")
-model = pickle.load(open(r"C:\Users\laxmi\sv.pkl","rb"))
+model = pickle.load(open(r"sv.pkl","rb"))
 
 import streamlit as st
 
