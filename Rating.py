@@ -17,7 +17,7 @@ st.title("Predicting Sustainability Ratings Based on Lifestyle Factors")
 
 # Load the data
 
-df = pd.read_csv(r"C:\Users\laxmi\Rating2.csv")  # Use 'xlrd' for .xls files
+df = pd.read_csv(r"Rating2.csv")  # Use 'xlrd' for .xls files
 
 
 
